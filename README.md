@@ -1,2 +1,1 @@
-# ComtrolPoint
-CP1
+# CP
